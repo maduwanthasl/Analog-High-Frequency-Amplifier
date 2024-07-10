@@ -69,5 +69,3 @@ Proteus was used to develop the virtual prototype. The physical prototype's PCB 
 - [TIP31C Datasheet](https://www.st.com/resource/en/datasheet/tip31c.pdf)
 - [TIP32C Datasheet](https://www.st.com/resource/en/datasheet/tip32c.pdf)
 
-## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
