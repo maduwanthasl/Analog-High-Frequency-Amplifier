@@ -49,6 +49,25 @@ To address the issue of insufficient gain in Class AB amplifier stages, voltage 
 ### Prototype Design 📐
 Proteus was used to develop the virtual prototype. The physical prototype's PCB was designed using Altium software. The enclosure was created using SolidWorks, crafted from PLA+ material for effective heat dissipation and prevention of amplifier overheating.
 
+### Schematic Design
+![schdoc](https://raw.githubusercontent.com/maduwanthasl/Analog-High-Frequency-Amplifier-V1/main/Schematic%20images/High%20%20Frequncy%20Amplifier%20-%20Schematic%20.png)
+
+### PCB Design
+
+### 2D View
+<table>
+  <tr>
+    <td align="center">
+      <strong>Top Layer</strong><br>
+      <img src="https://raw.githubusercontent.com/maduwanthasl/Analog-High-Frequency-Amplifier-V1/main/PCB%20images/High%20%20Frequncy%20Amplifier%20-%20PCB%202D%20top%20layer%20.png" alt="top" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <strong>Bottom Layer</strong><br>
+      <img src="https://raw.githubusercontent.com/maduwanthasl/Analog-High-Frequency-Amplifier-V1/main/PCB%20images/High%20%20Frequncy%20Amplifier%20-%20PCB%202D%20Bottom%20layer%20.png" alt="bottom" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
+
 ## Achieved Results 📊
 - Open circuit gain: 21
 - Gain with 8Ω load: 16.393
