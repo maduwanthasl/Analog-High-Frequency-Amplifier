@@ -82,6 +82,19 @@ Proteus was used to develop the virtual prototype. The physical prototype's PCB 
   </tr>
 </table>
 
+### Final Product
+<table>
+  <tr>
+    <td align="center">
+      <strong></strong><br>
+      <img src="https://raw.githubusercontent.com/maduwanthasl/Analog-High-Frequency-Amplifier-V1/main/Final%20Product/Final%20product%202.jpg" alt="Final product" style="max-width:100%;">
+    </td>
+    <td align="center">
+      <strong></strong><br>
+      <img src="https://raw.githubusercontent.com/maduwanthasl/Analog-High-Frequency-Amplifier-V1/main/Final%20Product/Final%20product%201.jpg" alt="final product" style="max-width:100%;">
+    </td>
+  </tr>
+</table>
 
 ## Achieved Results 📊
 - Open circuit gain: 21
